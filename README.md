@@ -5,4 +5,10 @@ Es handelt sich um einen Taschenrechner, der die 4 Grundrechenarten beherrscht u
 
 ## Ausführung des Programms
 
-open terminal -> type in 'uv run python src\mini_calc\mini_calc.py' -> Enter
+open Visual Studio Code -> open folder in VSC -> open terminal (in the top bar)-select *new Terminal* -> type in 'uv run python src\mini_calc\mini_calc.py' -> Enter
+
+## Troubleshoot
+if problems occure starting the program check following:
+  try python 3.11
+  open folder in VSC again 
+  restart VSC
